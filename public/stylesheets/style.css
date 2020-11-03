@@ -10,3 +10,7 @@ a {
 .active {
   font-weight: bold;
 }
+
+.error {
+  color: red;
+}
